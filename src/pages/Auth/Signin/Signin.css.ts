@@ -12,3 +12,8 @@ export const Container = style({
   height: '400px',
   margin: '0 auto',
 });
+
+export const Input = style({
+  padding: '6px 9px',
+  borderRadius: '8px',
+});
